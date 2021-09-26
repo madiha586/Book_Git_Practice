@@ -1,0 +1,12 @@
+
+This is the first page of chapter 1
+
+This the start of new beginning IA!!
+
+Hoping for the best from Allah
+
+9/26/2021-----> Sunday
+
+Creating a new project
+Created a new package called chapter_1
+created a file new text file called page1
